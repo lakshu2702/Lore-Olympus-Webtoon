@@ -20,7 +20,7 @@ This is a responsive and interactive landing page for the "Lore Olympus" webtoon
 ### Installation & Setup:
 1. Clone the repository:
     ```bash
-    git clone https://github.com/lakshu2702/lore-olympus-landing.git
+    git clone https://github.com/lakshu2702/lore-olympus-webtoon.git
     ```
    
 2. Navigate into the project directory:
