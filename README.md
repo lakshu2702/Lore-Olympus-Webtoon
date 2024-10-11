@@ -38,27 +38,27 @@ This is a responsive and interactive landing page for the "Lore Olympus" webtoon
 
 ### Screenshots:
 1. **Home Screen - Lore Olympus Overview**  
-   ![Home Screen](images/screenshots/ss1.png)  
+   ![Home Screen](ss1.png)  
    *The main screen showcasing details about the webtoon "Lore Olympus."*
 
 2. **Table of Contents**  
-   ![Table of Contents](images/screenshots/ss2.png)  
+   ![Table of Contents](ss2.png)  
    *A clear table of contents providing easy navigation through different sections of the webtoon.*
 
 3. **Meet the Major Characters**  
-   ![Major Characters](images/screenshots/ss3.png)  
+   ![Major Characters](ss3.png)  
    *An overview of the major characters in "Lore Olympus."*
 
 4. **Hover Over Persephone**  
-   ![Hover Over Persephone](images/screenshots/ss4.png)   
+   ![Hover Over Persephone](ss4.png)   
    *A demonstration of the interactive hover effect on the character Persephone, revealing additional information.*
 
 5. **Comment Section**  
-   ![Comment Section](images/screenshots/ss5.png)   
+   ![Comment Section](ss5.png)   
    *The comment section allowing users to leave feedback and engage with the content.*
 
 6. **10 Best Supernatural List Carousel and Contact Us Section**  
-   ![Supernatural Carousel](images/screenshots/ss6.png)   
+   ![Supernatural Carousel](ss6.png)   
    *A carousel showcasing the top 10 supernatural manhwas along with a contact us section for user inquiries.*
 
 Feel free to contribute to this project by submitting issues or pull requests!
