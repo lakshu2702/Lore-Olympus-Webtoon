@@ -58,7 +58,7 @@ This is a responsive and interactive landing page for the "Lore Olympus" webtoon
    *The comment section allowing users to leave feedback and engage with the content.*
 
 6. **10 Best Supernatural List Carousel and Contact Us Section**  
-   ![Supernatural Carousel](images/screenshots/s5s.png)   
+   ![Supernatural Carousel](images/screenshots/ss6.png)   
    *A carousel showcasing the top 10 supernatural manhwas along with a contact us section for user inquiries.*
 
 Feel free to contribute to this project by submitting issues or pull requests!
